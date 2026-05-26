@@ -51,12 +51,3 @@ Sou Tonia Dias, Analista de Qualidade (QA) com experiência em **testes manuais 
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 <br/><br/>
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=toniadias&show_icons=true&theme=tokyonight&locale=pt-br" width="48%" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniadias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" />
-</p>
-
-<br/><br/>
